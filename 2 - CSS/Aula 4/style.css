@@ -1,0 +1,14 @@
+body {
+    background-color: #FFE4D6;
+}
+
+.foto {
+    width: 200px;
+    border: 5px solid white;
+    /* 
+    border-width: 5px;
+    border-styles: solid;
+    border-color: white;
+    */
+border-radius: 50%;
+}
